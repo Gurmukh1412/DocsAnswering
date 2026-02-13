@@ -1,0 +1,10 @@
+openai>=1.0.0
+faiss-cpu
+PyPDF2
+tiktoken
+python-dotenv
+numpy
+streamlit
+requests
+sentence-transformers
+requests
